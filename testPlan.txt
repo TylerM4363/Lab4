@@ -1,13 +1,13 @@
 Test Cases:
 5 19 4 29 10
 1 2 3 4 5
-51 3 55 0 9
+51 3 55 a 9
 6 8 39 5 9
-10 100 1000 10000 0
+
 
 Expected Results:
 29 19 10 5 4
 5 4 3 2 1
-55 51 9 3 0 
+IllegalArgumentException 
 39 9 8 6 5
-10000 1000 100 10 0
+null
