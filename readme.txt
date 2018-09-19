@@ -6,3 +6,5 @@ How to sort it?
 	- Descending Order
 What object type is the array?
 	- Integer
+What should the method return?
+	- Return new array in sorted order
