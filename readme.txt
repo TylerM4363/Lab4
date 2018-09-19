@@ -1,5 +1,6 @@
 Write a method that will sort an array.
 
-How to use nano correctly?
-How to make a txt file?
-How to remove a repository?
+What size is the array?
+How to sort it?
+What object type is the array?
+
